@@ -1,0 +1,1 @@
+{"id": "NextHD.py", "name": "Next HD", "alt_names": [], "country": "PY", "categories": ["movies", "music"], "website": "https://nexthdpy.blogspot.com/", "network": null, "logo": "https://i.imgur.com/c2rF3SS.png", "sources": [{"url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8", "quality": "480p", "title": "Next HD", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

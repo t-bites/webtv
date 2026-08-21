@@ -1,0 +1,1 @@
+{"id": "PlzenTV.cz", "name": "Plzen TV", "alt_names": ["Plzeň TV"], "country": "CZ", "categories": ["general"], "website": "https://tv.plzen.cz/", "network": null, "logo": "https://i.imgur.com/TxLKSqL.png", "sources": [{"url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8", "quality": "1080p", "title": "Plzeň TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

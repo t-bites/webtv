@@ -1,0 +1,1 @@
+{"id": "BTATV.ve", "name": "BTA TV", "alt_names": [], "country": "VE", "categories": ["music"], "website": "https://btatv.tv/", "network": null, "logo": "https://i.imgur.com/vygOosC.png", "sources": [{"url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8", "quality": "720p", "title": "BTA TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "MessatidaTV.gr", "name": "Messatida TV", "alt_names": [], "country": "GR", "categories": ["music"], "website": "https://www.messatidatv.gr/", "network": null, "logo": "https://i.imgur.com/WEYrIrC.png", "sources": [{"url": "https://rtmp.streams.ovh:8081/mtv/index.m3u8", "quality": "720p", "title": "Messatida TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

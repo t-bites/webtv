@@ -1,0 +1,1 @@
+{"id": "CMT.us", "name": "CMT", "alt_names": [], "country": "US", "categories": ["music"], "website": "http://www.cmt.com/", "network": null, "logo": "https://i.imgur.com/S7DOpdY.png", "sources": [{"url": "http://23.237.104.106:8080/USA_CMT/index.m3u8", "quality": "720p", "title": "CMT", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

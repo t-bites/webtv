@@ -1,0 +1,1 @@
+{"id": "GuadaTV.es", "name": "Guada TV", "alt_names": [], "country": "ES", "categories": ["general"], "website": "http://www.guadatv.tv/", "network": null, "logo": "https://i.imgur.com/YaDNsYN.png", "sources": [{"url": "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8", "quality": "720p", "title": "Guada TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

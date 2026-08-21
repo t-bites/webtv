@@ -1,0 +1,1 @@
+{"id": "AlJazeera2.qa", "name": "Al Jazeera 2", "alt_names": ["الجزيرة 2"], "country": "QA", "categories": ["news"], "website": null, "network": null, "logo": "https://i.imgur.com/miq8O1Q.png", "sources": [{"url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8", "quality": "1080p", "title": "Al Jazeera 2", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

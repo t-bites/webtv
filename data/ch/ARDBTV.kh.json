@@ -1,0 +1,1 @@
+{"id": "ARDBTV.kh", "name": "ARDB TV", "alt_names": [], "country": "KH", "categories": ["outdoor"], "website": "https://ardbtv.ardb.com.kh/", "network": null, "logo": "https://i.imgur.com/yOncWla.png", "sources": [{"url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8", "quality": "1080p", "title": "ARDB TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

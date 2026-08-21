@@ -1,0 +1,1 @@
+{"id": "Tele7music.ro", "name": "Tele7music", "alt_names": [], "country": "RO", "categories": ["music"], "website": "https://tele7music.ro/", "network": null, "logo": "https://i.imgur.com/11b5W8u.png", "sources": [{"url": "https://live.tele7music.ro/hls/stream/index.m3u8", "quality": "576i", "title": "Tele7music", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

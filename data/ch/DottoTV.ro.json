@@ -1,0 +1,1 @@
+{"id": "DottoTV.ro", "name": "Dotto TV", "alt_names": [], "country": "RO", "categories": ["news"], "website": "https://dottotv.ro/", "network": null, "logo": "https://i.imgur.com/pfs882Z.png", "sources": [{"url": "https://live.dottotv.ro/index.m3u8", "quality": "1080p", "title": "Dotto TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

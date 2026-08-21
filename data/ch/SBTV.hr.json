@@ -1,0 +1,1 @@
+{"id": "SBTV.hr", "name": "SBTV", "alt_names": ["Slavonskobrodska televizija"], "country": "HR", "categories": ["general"], "website": "https://www.sbtv.hr/", "network": null, "logo": "https://i.imgur.com/MIampxZ.png", "sources": [{"url": "https://live.leveex.hr/hls/live.m3u8", "quality": "1080p", "title": "SBTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

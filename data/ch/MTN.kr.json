@@ -1,0 +1,1 @@
+{"id": "MTN.kr", "name": "MTN", "alt_names": ["MTN 머니투데이방송"], "country": "KR", "categories": [], "website": "http://www.mtn.co.kr/", "network": null, "logo": "https://i.imgur.com/MS0lqoG.png", "sources": [{"url": "http://183.110.27.87/mtnlive/720/playlist.m3u8", "quality": "720p", "title": "MTN", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

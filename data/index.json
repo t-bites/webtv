@@ -1,0 +1,941 @@
+{
+ "generated_at": "2026-08-22 04:30",
+ "total_channels": 9899,
+ "total_streams": 14743,
+ "multi_source": 2257,
+ "countries": {
+  "AD": {
+   "code": "AD",
+   "name": "Andorra",
+   "count": 1
+  },
+  "AE": {
+   "code": "AE",
+   "name": "United Arab Emirates",
+   "count": 38
+  },
+  "AF": {
+   "code": "AF",
+   "name": "Afghanistan",
+   "count": 14
+  },
+  "AG": {
+   "code": "AG",
+   "name": "Antigua and Barbuda",
+   "count": 1
+  },
+  "AL": {
+   "code": "AL",
+   "name": "Albania",
+   "count": 27
+  },
+  "AM": {
+   "code": "AM",
+   "name": "Armenia",
+   "count": 8
+  },
+  "AO": {
+   "code": "AO",
+   "name": "Angola",
+   "count": 3
+  },
+  "AR": {
+   "code": "AR",
+   "name": "Argentina",
+   "count": 156
+  },
+  "AT": {
+   "code": "AT",
+   "name": "Austria",
+   "count": 32
+  },
+  "AU": {
+   "code": "AU",
+   "name": "Australia",
+   "count": 40
+  },
+  "AW": {
+   "code": "AW",
+   "name": "Aruba",
+   "count": 11
+  },
+  "AZ": {
+   "code": "AZ",
+   "name": "Azerbaijan",
+   "count": 17
+  },
+  "BA": {
+   "code": "BA",
+   "name": "Bosnia and Herzegovina",
+   "count": 24
+  },
+  "BB": {
+   "code": "BB",
+   "name": "Barbados",
+   "count": 1
+  },
+  "BD": {
+   "code": "BD",
+   "name": "Bangladesh",
+   "count": 23
+  },
+  "BE": {
+   "code": "BE",
+   "name": "Belgium",
+   "count": 39
+  },
+  "BF": {
+   "code": "BF",
+   "name": "Burkina Faso",
+   "count": 6
+  },
+  "BG": {
+   "code": "BG",
+   "name": "Bulgaria",
+   "count": 65
+  },
+  "BH": {
+   "code": "BH",
+   "name": "Bahrain",
+   "count": 5
+  },
+  "BJ": {
+   "code": "BJ",
+   "name": "Benin",
+   "count": 10
+  },
+  "BN": {
+   "code": "BN",
+   "name": "Brunei",
+   "count": 2
+  },
+  "BO": {
+   "code": "BO",
+   "name": "Bolivia",
+   "count": 72
+  },
+  "BQ": {
+   "code": "BQ",
+   "name": "Bonaire",
+   "count": 6
+  },
+  "BR": {
+   "code": "BR",
+   "name": "Brazil",
+   "count": 275
+  },
+  "BS": {
+   "code": "BS",
+   "name": "Bahamas",
+   "count": 4
+  },
+  "BY": {
+   "code": "BY",
+   "name": "Belarus",
+   "count": 14
+  },
+  "BZ": {
+   "code": "BZ",
+   "name": "Belize",
+   "count": 17
+  },
+  "CA": {
+   "code": "CA",
+   "name": "Canada",
+   "count": 154
+  },
+  "CD": {
+   "code": "CD",
+   "name": "Democratic Republic of the Congo",
+   "count": 16
+  },
+  "CG": {
+   "code": "CG",
+   "name": "Republic of the Congo",
+   "count": 5
+  },
+  "CH": {
+   "code": "CH",
+   "name": "Switzerland",
+   "count": 32
+  },
+  "CI": {
+   "code": "CI",
+   "name": "Ivory Coast",
+   "count": 18
+  },
+  "CL": {
+   "code": "CL",
+   "name": "Chile",
+   "count": 224
+  },
+  "CM": {
+   "code": "CM",
+   "name": "Cameroon",
+   "count": 15
+  },
+  "CN": {
+   "code": "CN",
+   "name": "China",
+   "count": 146
+  },
+  "CO": {
+   "code": "CO",
+   "name": "Colombia",
+   "count": 106
+  },
+  "CR": {
+   "code": "CR",
+   "name": "Costa Rica",
+   "count": 67
+  },
+  "CU": {
+   "code": "CU",
+   "name": "Cuba",
+   "count": 2
+  },
+  "CV": {
+   "code": "CV",
+   "name": "Cape Verde",
+   "count": 1
+  },
+  "CW": {
+   "code": "CW",
+   "name": "Curacao",
+   "count": 4
+  },
+  "CY": {
+   "code": "CY",
+   "name": "Cyprus",
+   "count": 14
+  },
+  "CZ": {
+   "code": "CZ",
+   "name": "Czech Republic",
+   "count": 68
+  },
+  "DE": {
+   "code": "DE",
+   "name": "Germany",
+   "count": 412
+  },
+  "DK": {
+   "code": "DK",
+   "name": "Denmark",
+   "count": 12
+  },
+  "DO": {
+   "code": "DO",
+   "name": "Dominican Republic",
+   "count": 245
+  },
+  "DZ": {
+   "code": "DZ",
+   "name": "Algeria",
+   "count": 6
+  },
+  "EC": {
+   "code": "EC",
+   "name": "Ecuador",
+   "count": 80
+  },
+  "EE": {
+   "code": "EE",
+   "name": "Estonia",
+   "count": 19
+  },
+  "EG": {
+   "code": "EG",
+   "name": "Egypt",
+   "count": 18
+  },
+  "EH": {
+   "code": "EH",
+   "name": "Western Sahara",
+   "count": 1
+  },
+  "ER": {
+   "code": "ER",
+   "name": "Eritrea",
+   "count": 1
+  },
+  "ES": {
+   "code": "ES",
+   "name": "Spain",
+   "count": 247
+  },
+  "ET": {
+   "code": "ET",
+   "name": "Ethiopia",
+   "count": 3
+  },
+  "FI": {
+   "code": "FI",
+   "name": "Finland",
+   "count": 24
+  },
+  "FR": {
+   "code": "FR",
+   "name": "France",
+   "count": 175
+  },
+  "GE": {
+   "code": "GE",
+   "name": "Georgia",
+   "count": 20
+  },
+  "GF": {
+   "code": "GF",
+   "name": "French Guiana",
+   "count": 1
+  },
+  "GH": {
+   "code": "GH",
+   "name": "Ghana",
+   "count": 10
+  },
+  "GM": {
+   "code": "GM",
+   "name": "Gambia",
+   "count": 1
+  },
+  "GN": {
+   "code": "GN",
+   "name": "Guinea",
+   "count": 4
+  },
+  "GP": {
+   "code": "GP",
+   "name": "Guadeloupe",
+   "count": 5
+  },
+  "GQ": {
+   "code": "GQ",
+   "name": "Equatorial Guinea",
+   "count": 2
+  },
+  "GR": {
+   "code": "GR",
+   "name": "Greece",
+   "count": 71
+  },
+  "GT": {
+   "code": "GT",
+   "name": "Guatemala",
+   "count": 62
+  },
+  "GU": {
+   "code": "GU",
+   "name": "Guam",
+   "count": 1
+  },
+  "GY": {
+   "code": "GY",
+   "name": "Guyana",
+   "count": 5
+  },
+  "HK": {
+   "code": "HK",
+   "name": "Hong Kong",
+   "count": 14
+  },
+  "HN": {
+   "code": "HN",
+   "name": "Honduras",
+   "count": 76
+  },
+  "HR": {
+   "code": "HR",
+   "name": "Croatia",
+   "count": 33
+  },
+  "HT": {
+   "code": "HT",
+   "name": "Haiti",
+   "count": 13
+  },
+  "HU": {
+   "code": "HU",
+   "name": "Hungary",
+   "count": 131
+  },
+  "ID": {
+   "code": "ID",
+   "name": "Indonesia",
+   "count": 129
+  },
+  "IE": {
+   "code": "IE",
+   "name": "Ireland",
+   "count": 17
+  },
+  "IL": {
+   "code": "IL",
+   "name": "Israel",
+   "count": 27
+  },
+  "IN": {
+   "code": "IN",
+   "name": "India",
+   "count": 675
+  },
+  "IQ": {
+   "code": "IQ",
+   "name": "Iraq",
+   "count": 56
+  },
+  "IR": {
+   "code": "IR",
+   "name": "Iran",
+   "count": 120
+  },
+  "IS": {
+   "code": "IS",
+   "name": "Iceland",
+   "count": 5
+  },
+  "IT": {
+   "code": "IT",
+   "name": "Italy",
+   "count": 243
+  },
+  "JM": {
+   "code": "JM",
+   "name": "Jamaica",
+   "count": 7
+  },
+  "JO": {
+   "code": "JO",
+   "name": "Jordan",
+   "count": 18
+  },
+  "JP": {
+   "code": "JP",
+   "name": "Japan",
+   "count": 15
+  },
+  "KE": {
+   "code": "KE",
+   "name": "Kenya",
+   "count": 38
+  },
+  "KG": {
+   "code": "KG",
+   "name": "Kyrgyzstan",
+   "count": 14
+  },
+  "KH": {
+   "code": "KH",
+   "name": "Cambodia",
+   "count": 25
+  },
+  "KN": {
+   "code": "KN",
+   "name": "Saint Kitts and Nevis",
+   "count": 2
+  },
+  "KP": {
+   "code": "KP",
+   "name": "North Korea",
+   "count": 1
+  },
+  "KR": {
+   "code": "KR",
+   "name": "South Korea",
+   "count": 72
+  },
+  "KW": {
+   "code": "KW",
+   "name": "Kuwait",
+   "count": 11
+  },
+  "KZ": {
+   "code": "KZ",
+   "name": "Kazakhstan",
+   "count": 35
+  },
+  "LA": {
+   "code": "LA",
+   "name": "Laos",
+   "count": 9
+  },
+  "LB": {
+   "code": "LB",
+   "name": "Lebanon",
+   "count": 30
+  },
+  "LC": {
+   "code": "LC",
+   "name": "Saint Lucia",
+   "count": 2
+  },
+  "LK": {
+   "code": "LK",
+   "name": "Sri Lanka",
+   "count": 13
+  },
+  "LT": {
+   "code": "LT",
+   "name": "Lithuania",
+   "count": 16
+  },
+  "LU": {
+   "code": "LU",
+   "name": "Luxembourg",
+   "count": 11
+  },
+  "LV": {
+   "code": "LV",
+   "name": "Latvia",
+   "count": 12
+  },
+  "LY": {
+   "code": "LY",
+   "name": "Libya",
+   "count": 4
+  },
+  "MA": {
+   "code": "MA",
+   "name": "Morocco",
+   "count": 9
+  },
+  "MC": {
+   "code": "MC",
+   "name": "Monaco",
+   "count": 3
+  },
+  "MD": {
+   "code": "MD",
+   "name": "Moldova",
+   "count": 25
+  },
+  "ME": {
+   "code": "ME",
+   "name": "Montenegro",
+   "count": 7
+  },
+  "MK": {
+   "code": "MK",
+   "name": "North Macedonia",
+   "count": 25
+  },
+  "ML": {
+   "code": "ML",
+   "name": "Mali",
+   "count": 3
+  },
+  "MM": {
+   "code": "MM",
+   "name": "Myanmar",
+   "count": 15
+  },
+  "MN": {
+   "code": "MN",
+   "name": "Mongolia",
+   "count": 36
+  },
+  "MO": {
+   "code": "MO",
+   "name": "Macao",
+   "count": 7
+  },
+  "MQ": {
+   "code": "MQ",
+   "name": "Martinique",
+   "count": 6
+  },
+  "MT": {
+   "code": "MT",
+   "name": "Malta",
+   "count": 7
+  },
+  "MV": {
+   "code": "MV",
+   "name": "Maldives",
+   "count": 9
+  },
+  "MX": {
+   "code": "MX",
+   "name": "Mexico",
+   "count": 155
+  },
+  "MY": {
+   "code": "MY",
+   "name": "Malaysia",
+   "count": 16
+  },
+  "MZ": {
+   "code": "MZ",
+   "name": "Mozambique",
+   "count": 6
+  },
+  "NA": {
+   "code": "NA",
+   "name": "Namibia",
+   "count": 2
+  },
+  "NE": {
+   "code": "NE",
+   "name": "Niger",
+   "count": 4
+  },
+  "NG": {
+   "code": "NG",
+   "name": "Nigeria",
+   "count": 53
+  },
+  "NI": {
+   "code": "NI",
+   "name": "Nicaragua",
+   "count": 20
+  },
+  "NL": {
+   "code": "NL",
+   "name": "Netherlands",
+   "count": 171
+  },
+  "NO": {
+   "code": "NO",
+   "name": "Norway",
+   "count": 9
+  },
+  "NP": {
+   "code": "NP",
+   "name": "Nepal",
+   "count": 8
+  },
+  "NZ": {
+   "code": "NZ",
+   "name": "New Zealand",
+   "count": 14
+  },
+  "OM": {
+   "code": "OM",
+   "name": "Oman",
+   "count": 5
+  },
+  "PA": {
+   "code": "PA",
+   "name": "Panama",
+   "count": 23
+  },
+  "PE": {
+   "code": "PE",
+   "name": "Peru",
+   "count": 165
+  },
+  "PF": {
+   "code": "PF",
+   "name": "French Polynesia",
+   "count": 1
+  },
+  "PG": {
+   "code": "PG",
+   "name": "Papua New Guinea",
+   "count": 1
+  },
+  "PH": {
+   "code": "PH",
+   "name": "Philippines",
+   "count": 52
+  },
+  "PK": {
+   "code": "PK",
+   "name": "Pakistan",
+   "count": 82
+  },
+  "PL": {
+   "code": "PL",
+   "name": "Poland",
+   "count": 97
+  },
+  "PR": {
+   "code": "PR",
+   "name": "Puerto Rico",
+   "count": 30
+  },
+  "PS": {
+   "code": "PS",
+   "name": "Palestine",
+   "count": 19
+  },
+  "PT": {
+   "code": "PT",
+   "name": "Portugal",
+   "count": 57
+  },
+  "PY": {
+   "code": "PY",
+   "name": "Paraguay",
+   "count": 57
+  },
+  "QA": {
+   "code": "QA",
+   "name": "Qatar",
+   "count": 23
+  },
+  "RO": {
+   "code": "RO",
+   "name": "Romania",
+   "count": 77
+  },
+  "RS": {
+   "code": "RS",
+   "name": "Serbia",
+   "count": 63
+  },
+  "RU": {
+   "code": "RU",
+   "name": "Russia",
+   "count": 409
+  },
+  "RW": {
+   "code": "RW",
+   "name": "Rwanda",
+   "count": 7
+  },
+  "SA": {
+   "code": "SA",
+   "name": "Saudi Arabia",
+   "count": 55
+  },
+  "SD": {
+   "code": "SD",
+   "name": "Sudan",
+   "count": 3
+  },
+  "SE": {
+   "code": "SE",
+   "name": "Sweden",
+   "count": 202
+  },
+  "SG": {
+   "code": "SG",
+   "name": "Singapore",
+   "count": 20
+  },
+  "SI": {
+   "code": "SI",
+   "name": "Slovenia",
+   "count": 19
+  },
+  "SK": {
+   "code": "SK",
+   "name": "Slovakia",
+   "count": 47
+  },
+  "SL": {
+   "code": "SL",
+   "name": "Sierra Leone",
+   "count": 1
+  },
+  "SM": {
+   "code": "SM",
+   "name": "San Marino",
+   "count": 2
+  },
+  "SN": {
+   "code": "SN",
+   "name": "Senegal",
+   "count": 15
+  },
+  "SO": {
+   "code": "SO",
+   "name": "Somalia",
+   "count": 7
+  },
+  "SR": {
+   "code": "SR",
+   "name": "Suriname",
+   "count": 2
+  },
+  "SV": {
+   "code": "SV",
+   "name": "El Salvador",
+   "count": 32
+  },
+  "SX": {
+   "code": "SX",
+   "name": "Sint Maarten",
+   "count": 6
+  },
+  "SY": {
+   "code": "SY",
+   "name": "Syria",
+   "count": 11
+  },
+  "TD": {
+   "code": "TD",
+   "name": "Chad",
+   "count": 1
+  },
+  "TG": {
+   "code": "TG",
+   "name": "Togo",
+   "count": 11
+  },
+  "TH": {
+   "code": "TH",
+   "name": "Thailand",
+   "count": 67
+  },
+  "TJ": {
+   "code": "TJ",
+   "name": "Tajikistan",
+   "count": 14
+  },
+  "TM": {
+   "code": "TM",
+   "name": "Turkmenistan",
+   "count": 8
+  },
+  "TN": {
+   "code": "TN",
+   "name": "Tunisia",
+   "count": 4
+  },
+  "TR": {
+   "code": "TR",
+   "name": "Turkiye",
+   "count": 194
+  },
+  "TT": {
+   "code": "TT",
+   "name": "Trinidad and Tobago",
+   "count": 6
+  },
+  "TW": {
+   "code": "TW",
+   "name": "Taiwan",
+   "count": 25
+  },
+  "TZ": {
+   "code": "TZ",
+   "name": "Tanzania",
+   "count": 7
+  },
+  "UA": {
+   "code": "UA",
+   "name": "Ukraine",
+   "count": 146
+  },
+  "UG": {
+   "code": "UG",
+   "name": "Uganda",
+   "count": 21
+  },
+  "UK": {
+   "code": "UK",
+   "name": "United Kingdom",
+   "count": 188
+  },
+  "US": {
+   "code": "US",
+   "name": "United States",
+   "count": 1694
+  },
+  "UY": {
+   "code": "UY",
+   "name": "Uruguay",
+   "count": 2
+  },
+  "UZ": {
+   "code": "UZ",
+   "name": "Uzbekistan",
+   "count": 33
+  },
+  "VC": {
+   "code": "VC",
+   "name": "Saint Vincent and the Grenadines",
+   "count": 1
+  },
+  "VE": {
+   "code": "VE",
+   "name": "Venezuela",
+   "count": 68
+  },
+  "VG": {
+   "code": "VG",
+   "name": "British Virgin Islands",
+   "count": 2
+  },
+  "VN": {
+   "code": "VN",
+   "name": "Vietnam",
+   "count": 81
+  },
+  "WS": {
+   "code": "WS",
+   "name": "Samoa",
+   "count": 1
+  },
+  "XK": {
+   "code": "XK",
+   "name": "Kosovo",
+   "count": 15
+  },
+  "YE": {
+   "code": "YE",
+   "name": "Yemen",
+   "count": 4
+  },
+  "ZA": {
+   "code": "ZA",
+   "name": "South Africa",
+   "count": 23
+  },
+  "ZW": {
+   "code": "ZW",
+   "name": "Zimbabwe",
+   "count": 1
+  }
+ },
+ "categories": {
+  "animation": 113,
+  "auto": 23,
+  "business": 62,
+  "classic": 80,
+  "comedy": 154,
+  "cooking": 45,
+  "culture": 180,
+  "documentary": 201,
+  "education": 238,
+  "entertainment": 752,
+  "family": 40,
+  "general": 2502,
+  "interactive": 1,
+  "kids": 311,
+  "legislative": 178,
+  "lifestyle": 121,
+  "movies": 586,
+  "music": 694,
+  "news": 913,
+  "outdoor": 61,
+  "public": 35,
+  "relax": 9,
+  "religious": 725,
+  "science": 20,
+  "series": 394,
+  "shop": 77,
+  "sports": 415,
+  "travel": 55,
+  "weather": 17
+ },
+ "data_sources": [
+  {
+   "name": "iptv-org/api",
+   "url": "https://github.com/iptv-org/api",
+   "type": "频道元数据/流地址/EPG索引"
+  },
+  {
+   "name": "iptv-org/iptv",
+   "url": "https://github.com/iptv-org/iptv",
+   "type": "播放列表(多源流地址)"
+  },
+  {
+   "name": "iptv-org/epg",
+   "url": "https://github.com/iptv-org/epg",
+   "type": "节目单"
+  }
+ ]
+}

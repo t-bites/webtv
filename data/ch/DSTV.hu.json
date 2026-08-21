@@ -1,0 +1,1 @@
+{"id": "DSTV.hu", "name": "DSTV", "alt_names": ["Dunaújváros Televízió"], "country": "HU", "categories": ["general"], "website": "http://dstv.hu/", "network": null, "logo": "https://i.imgur.com/xKJoN8L.png", "sources": [{"url": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8", "quality": "720p", "title": "DSTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

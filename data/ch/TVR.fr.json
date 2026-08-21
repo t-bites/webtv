@@ -1,0 +1,1 @@
+{"id": "TVR.fr", "name": "TVR", "alt_names": [], "country": "FR", "categories": [], "website": null, "network": null, "logo": "https://www.tvr.bzh/favicon-1024.png", "sources": [{"url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8", "quality": "720p", "title": "TVR (Bretagne)", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

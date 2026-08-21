@@ -1,0 +1,1 @@
+{"id": "GnomiTV.gr", "name": "Gnomi TV", "alt_names": [], "country": "GR", "categories": ["general"], "website": "http://www.gnomi.eu/", "network": null, "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png", "sources": [{"url": "https://live.streams.ovh:8081/gnomitv/index.m3u8", "quality": "1080p", "title": "Gnomi TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

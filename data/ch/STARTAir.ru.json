@@ -1,0 +1,1 @@
+{"id": "STARTAir.ru", "name": "START Air", "alt_names": [], "country": "RU", "categories": ["movies"], "website": "https://starttv.ru/", "network": null, "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png", "sources": [{"url": "http://stream.mcquack.net/128/index.m3u8", "quality": "576p", "title": "START Air", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "NTVHit.ru", "name": "NTV-Hit", "alt_names": ["НТВ-Хит"], "country": "RU", "categories": ["series"], "website": "https://www.ntv.ru/air/ntvhit/", "network": null, "logo": "https://i.imgur.com/FfKBvz5.png", "sources": [{"url": "https://cdn.ntv.ru/th_hit/playlist.m3u8", "quality": "576p", "title": "НТВ Хит", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "RTSH1.al", "name": "RTSH 1", "alt_names": [], "country": "AL", "categories": ["general"], "website": "https://tv.rtsh.al/kanalet/rtsh-1", "network": null, "logo": "https://i.imgur.com/Y8wotC4.png", "sources": [{"url": "http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8", "quality": "1080p", "title": "RTSH 1", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

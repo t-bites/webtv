@@ -1,0 +1,1 @@
+{"id": "PSN.mx", "name": "PSN", "alt_names": ["Primer Sistema de Noticias"], "country": "MX", "categories": ["entertainment", "news"], "website": "https://psn.si/", "network": null, "logo": "https://i.imgur.com/7i7GkSL.png", "sources": [{"url": "https://srspsn.live/live/livestream.m3u8", "quality": "288p", "title": "PSN", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

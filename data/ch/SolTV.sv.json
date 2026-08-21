@@ -1,0 +1,1 @@
+{"id": "SolTV.sv", "name": "SolTV", "alt_names": ["Canal 99"], "country": "SV", "categories": ["general"], "website": "https://radiomorazan.net/", "network": null, "logo": "https://i.imgur.com/jaBxxpt.png", "sources": [{"url": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8", "quality": "1080p", "title": "Sol TV Morazán", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
