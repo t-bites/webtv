@@ -1,0 +1,1 @@
+{"id": "CCTV16.cn", "name": "CCTV-16", "alt_names": ["CCTV-16 奥林匹克"], "country": "CN", "categories": ["sports"], "website": "http://tv.cctv.com/cctv16/", "network": null, "logo": "https://i.imgur.com/ZzV6JQp.png", "sources": [{"url": "http://74.91.26.218:82/live/cctv16hd.m3u8", "quality": "1080p", "title": "CCTV-16", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

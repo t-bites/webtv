@@ -1,0 +1,1 @@
+{"id": "PrimerTV.br", "name": "Primer TV", "alt_names": [], "country": "BR", "categories": ["general"], "website": "https://primertv.com.br/", "network": null, "logo": "https://i.imgur.com/PMptSP3.png", "sources": [{"url": "http://200.194.238.229:8383/live/primer/playlist.m3u8", "quality": "1080p", "title": "Primer TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

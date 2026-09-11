@@ -1,0 +1,1 @@
+{"id": "OTV.hr", "name": "OTV", "alt_names": ["Otvorena televizija"], "country": "HR", "categories": ["news"], "website": "https://www.otv.hr/", "network": null, "logo": "https://i.imgur.com/67zVdu2.png", "sources": [{"url": "https://stream.agatin.hr:3559/live/otvlive.m3u8", "quality": "720p", "title": "OTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

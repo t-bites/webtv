@@ -1,0 +1,1 @@
+{"id": "NewsCentral.ng", "name": "News Central", "alt_names": [], "country": "NG", "categories": ["news"], "website": "http://newscentral.africa/", "network": null, "logo": "https://i.imgur.com/qvCgI8N.png", "sources": [{"url": "https://wf.newscentral.ng:8443/hls/stream.m3u8", "quality": "", "title": "News Central", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

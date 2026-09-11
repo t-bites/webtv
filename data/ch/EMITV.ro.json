@@ -1,0 +1,1 @@
+{"id": "EMITV.ro", "name": "EMI TV", "alt_names": ["N Sat TV Regional", "N Sat TV"], "country": "RO", "categories": ["music"], "website": "https://www.emitv.ro/", "network": null, "logo": "https://i.imgur.com/B5zssCz.png", "sources": [{"url": "https://astra.emitv.ro/hls/emi/index.m3u8", "quality": "", "title": "EMI TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

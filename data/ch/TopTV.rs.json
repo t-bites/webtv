@@ -1,0 +1,1 @@
+{"id": "TopTV.rs", "name": "Top TV", "alt_names": [], "country": "RS", "categories": ["music"], "website": "http://www.top-tv.rs/", "network": null, "logo": "https://i.imgur.com/UJqbKEC.png", "sources": [{"url": "http://82.165.71.58:8081/TopTV/live/playlist.m3u8", "quality": "1080p", "title": "Top TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

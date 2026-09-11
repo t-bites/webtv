@@ -1,0 +1,1 @@
+{"id": "AgroTV.bg", "name": "Agro TV", "alt_names": ["АГРО ТВ"], "country": "BG", "categories": ["outdoor"], "website": "https://agrotv.bg/", "network": null, "logo": "https://i.imgur.com/tPMNDtD.png", "sources": [{"url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8", "quality": "480p", "title": "Agro TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

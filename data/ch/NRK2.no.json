@@ -1,0 +1,1 @@
+{"id": "NRK2.no", "name": "NRK2", "alt_names": [], "country": "NO", "categories": ["general"], "website": "http://www.nrk.no/nrk2/", "network": null, "logo": "https://i.imgur.com/SiAdoK9.png", "sources": [{"url": "https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8", "quality": "1080i", "title": "NRK 2", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

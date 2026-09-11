@@ -1,0 +1,1 @@
+{"id": "NotioiTV.gr", "name": "Notioi TV", "alt_names": [], "country": "GR", "categories": ["general"], "website": "https://www.notioi.gr/", "network": null, "logo": "https://i.imgur.com/Nq00n8h.png", "sources": [{"url": "https://srv.streamserver.gr:3451/stream/play.m3u8", "quality": "1080p", "title": "Notioi TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

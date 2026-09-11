@@ -1,0 +1,1 @@
+{"id": "TVSkalica.sk", "name": "TV Skalica", "alt_names": ["TVS"], "country": "SK", "categories": ["general"], "website": "http://tvskalica.sk", "network": null, "logo": "https://i.imgur.com/GB8fMoJ.png", "sources": [{"url": "http://95.105.193.219:88/hls/tvs.m3u8", "quality": "540p", "title": "TV Skalica", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

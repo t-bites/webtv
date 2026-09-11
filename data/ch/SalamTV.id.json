@@ -1,0 +1,1 @@
+{"id": "SalamTV.id", "name": "Salam TV", "alt_names": [], "country": "ID", "categories": [], "website": "https://salamtelevisi.com/", "network": null, "logo": "https://i.imgur.com/00Ifzgo.png", "sources": [{"url": "https://live.salamtelevisi.com/hls/0/stream.m3u8", "quality": "720p", "title": "Salam TV", "ua": "", "referrer": "salamtelevisi.com", "origin": "iptv-org/iptv"}]}

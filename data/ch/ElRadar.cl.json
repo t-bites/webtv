@@ -1,0 +1,1 @@
+{"id": "ElRadar.cl", "name": "El Radar", "alt_names": [], "country": "CL", "categories": ["general"], "website": null, "network": null, "logo": "https://cdn.m3u.cl/logo/1743_El_Radar.png", "sources": [{"url": "https://video.ipstream.cl:3459/hybrid/play.m3u8", "quality": "720p", "title": "El Radar", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

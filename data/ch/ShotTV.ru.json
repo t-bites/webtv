@@ -1,0 +1,1 @@
+{"id": "ShotTV.ru", "name": "Shot TV", "alt_names": [], "country": "RU", "categories": ["movies"], "website": "http://www.shot-tv.com/", "network": null, "logo": "https://i.imgur.com/MLSG7tA.png", "sources": [{"url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8", "quality": "576p", "title": "Shot TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

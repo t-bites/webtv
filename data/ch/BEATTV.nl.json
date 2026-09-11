@@ -1,0 +1,1 @@
+{"id": "BEATTV.nl", "name": "BEATTV", "alt_names": ["BE@TTV"], "country": "NL", "categories": ["music", "entertainment"], "website": "https://beatfm.nl/", "network": null, "logo": "https://i.imgur.com/egK33Dj.png", "sources": [{"url": "https://tv.beatfm.nl/live.m3u8", "quality": "1080p", "title": "BE@TTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

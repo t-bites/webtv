@@ -1,0 +1,1 @@
+{"id": "TravelTV.bg", "name": "Travel TV", "alt_names": [], "country": "BG", "categories": ["travel"], "website": "http://tv.traveltv.bg/", "network": null, "logo": "https://i.imgur.com/5xllfed.png", "sources": [{"url": "https://streamer103.neterra.tv/travel/live.m3u8", "quality": "576p", "title": "Travel TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

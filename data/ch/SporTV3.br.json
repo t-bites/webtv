@@ -1,0 +1,1 @@
+{"id": "SporTV3.br", "name": "SporTV 3", "alt_names": [], "country": "BR", "categories": ["sports"], "website": "http://sportv.globo.com/", "network": null, "logo": "https://i.imgur.com/mWOR8pi.png", "sources": [{"url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8", "quality": "720p", "title": "SporTV 3", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

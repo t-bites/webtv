@@ -1,0 +1,1 @@
+{"id": "TVSen.sk", "name": "TV Sen", "alt_names": [], "country": "SK", "categories": ["general"], "website": "https://www.tvsen.sk/", "network": null, "logo": "https://i.imgur.com/ckm2oLD.png", "sources": [{"url": "http://95.105.193.219:88/hls/tvsen.m3u8", "quality": "540p", "title": "TV Sen", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

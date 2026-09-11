@@ -1,0 +1,1 @@
+{"id": "OceanTV.ru", "name": "Ocean-TV", "alt_names": [], "country": "RU", "categories": [], "website": "https://ocean-tv.media/", "network": null, "logo": "https://i.imgur.com/zswzDZS.png", "sources": [{"url": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8", "quality": "576p", "title": "Ocean-TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
