@@ -1,0 +1,1 @@
+{"id": "GIT.ua", "name": "GIT", "alt_names": ["ГІТ", "Громадське Інтерактивне Телебачення"], "country": "UA", "categories": ["news"], "website": "https://uagit.tv/", "network": null, "logo": "https://i.imgur.com/b5K5Uwh.png", "sources": [{"url": "https://stream.uagit.tv/gittv.m3u8", "quality": "720p", "title": "GIT", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

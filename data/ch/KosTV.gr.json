@@ -1,0 +1,1 @@
+{"id": "KosTV.gr", "name": "Kos TV", "alt_names": [], "country": "GR", "categories": ["general"], "website": "https://www.kostv.gr/", "network": null, "logo": "https://i.imgur.com/bdJnQ1W.png", "sources": [{"url": "https://eu1.streams.gr:8081/kostv/index.m3u8", "quality": "720p", "title": "Kos TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "RedDTV.bo", "name": "Red DTV", "alt_names": [], "country": "BO", "categories": ["general"], "website": "https://dtv.bo/", "network": null, "logo": "https://i.imgur.com/fK0g2CK.png", "sources": [{"url": "http://15.204.246.24:8080/DTVHD/index.m3u8", "quality": "1080p", "title": "Red DTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

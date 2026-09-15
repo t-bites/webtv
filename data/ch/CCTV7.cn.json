@@ -1,0 +1,1 @@
+{"id": "CCTV7.cn", "name": "CCTV-7", "alt_names": ["CCTV-7 国防军事"], "country": "CN", "categories": ["education"], "website": "http://tv.cctv.com/cctv7/", "network": null, "logo": "https://i.imgur.com/CKcPMQC.png", "sources": [{"url": "http://74.91.26.218:82/live/cctv7hd.m3u8", "quality": "720p", "title": "CCTV-7", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

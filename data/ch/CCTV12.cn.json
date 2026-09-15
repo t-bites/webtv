@@ -1,0 +1,1 @@
+{"id": "CCTV12.cn", "name": "CCTV-12", "alt_names": ["CCTV-12 社会与法"], "country": "CN", "categories": ["lifestyle"], "website": "http://tv.cctv.com/cctv12/", "network": null, "logo": "https://i.imgur.com/3yTuiOM.png", "sources": [{"url": "http://74.91.26.218:82/live/cctv12hd.m3u8", "quality": "720p", "title": "CCTV-12", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

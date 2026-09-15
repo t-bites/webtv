@@ -1,0 +1,1 @@
+{"id": "MaLive.nl", "name": "MaLive", "alt_names": [], "country": "NL", "categories": ["entertainment"], "website": "https://malive.nl/", "network": null, "logo": "https://i.imgur.com/0Vzg2OR.png", "sources": [{"url": "https://live.salto.nl/hls/malive_high.m3u8", "quality": "1080p", "title": "Salto MaLive", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
