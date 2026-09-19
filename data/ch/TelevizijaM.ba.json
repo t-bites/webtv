@@ -1,0 +1,1 @@
+{"id": "TelevizijaM.ba", "name": "Televizija M", "alt_names": [], "country": "BA", "categories": ["general"], "website": "https://tv-m.net/", "network": null, "logo": "https://i.imgur.com/jT95ZEI.png", "sources": [{"url": "https://live.tv-m.net/hls/stream.m3u8", "quality": "1080p", "title": "Televizija M", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

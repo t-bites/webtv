@@ -1,0 +1,1 @@
+{"id": "JuiceTV.nz", "name": "Juice TV", "alt_names": [], "country": "NZ", "categories": ["music"], "website": "https://www.juicetv.live/", "network": null, "logo": "https://i.imgur.com/WaaaW0w.png", "sources": [{"url": "https://juicex.nz/hls/mystream.m3u8", "quality": "1080p", "title": "Juice TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

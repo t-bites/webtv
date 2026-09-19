@@ -1,0 +1,1 @@
+{"id": "INews.iq", "name": "I News", "alt_names": [], "country": "IQ", "categories": ["news"], "website": null, "network": null, "logo": "https://i.imgur.com/9lOuzHQ.png", "sources": [{"url": "https://live.i-news.tv/hls/stream.m3u8", "quality": "1080p", "title": "iNEWS TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

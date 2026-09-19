@@ -1,0 +1,1 @@
+{"id": "MNCTV.id", "name": "MNCTV", "alt_names": [], "country": "ID", "categories": ["general"], "website": "https://m.rctiplus.com/tv/mnctv", "network": null, "logo": "https://i.imgur.com/SK8pjQy.png", "sources": [{"url": "https://mncmedia.malingtv.workers.dev/mnctv.m3u8", "quality": "720p", "title": "MNCTV HD", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

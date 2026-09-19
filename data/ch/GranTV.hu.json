@@ -1,0 +1,1 @@
+{"id": "GranTV.hu", "name": "Gran TV", "alt_names": [], "country": "HU", "categories": ["religious"], "website": "http://www.grantv.hu/", "network": null, "logo": "https://i.ibb.co/qJN7Qh2/gran-kicsi.png", "sources": [{"url": "https://stream.medialive.hu/gran/grantvlive/playlist.m3u8", "quality": "720p", "title": "Gran TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

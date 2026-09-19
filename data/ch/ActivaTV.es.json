@@ -1,0 +1,1 @@
+{"id": "ActivaTV.es", "name": "Activa TV", "alt_names": [], "country": "ES", "categories": ["music"], "website": null, "network": null, "logo": "https://i.imgur.com/VCUZKiw.png", "sources": [{"url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8", "quality": "720p", "title": "Activa TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

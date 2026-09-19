@@ -1,0 +1,1 @@
+{"id": "UNETV.hn", "name": "UNE TV", "alt_names": [], "country": "HN", "categories": ["news"], "website": null, "network": null, "logo": "https://i.imgur.com/V9Fpd3Y.png", "sources": [{"url": "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8", "quality": "720p", "title": "UNE TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
