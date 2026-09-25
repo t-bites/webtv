@@ -1,0 +1,1 @@
+{"id": "TVCRET.sv", "name": "TV CRET", "alt_names": [], "country": "SV", "categories": ["religious"], "website": "https://radiocret.net/", "network": null, "logo": "https://i.imgur.com/ChonoKb.png", "sources": [{"url": "https://radiocret.net:8082/hls/tvcret.m3u8", "quality": "1080p", "title": "TV CRET", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

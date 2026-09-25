@@ -1,0 +1,1 @@
+{"id": "BailenTV.es", "name": "Bailen TV", "alt_names": ["Bailén TV"], "country": "ES", "categories": [], "website": "https://bailen.tv/", "network": null, "logo": "https://i.imgur.com/a64hwzq.png", "sources": [{"url": "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8", "quality": "720p", "title": "Bailén TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

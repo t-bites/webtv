@@ -1,0 +1,1 @@
+{"id": "P3tv.at", "name": "P3tv", "alt_names": [], "country": "AT", "categories": ["general"], "website": "https://www.p3tv.at/", "network": null, "logo": "https://i.imgur.com/qUOFiEe.png", "sources": [{"url": "http://p3-6.mov.at:1935/live/weekstream/master.m3u8", "quality": "720p", "title": "P3tv", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

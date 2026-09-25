@@ -1,0 +1,1 @@
+{"id": "CTS.tw", "name": "CTS", "alt_names": [], "country": "TW", "categories": ["general"], "website": "https://www.cts.com.tw/", "network": null, "logo": "https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png", "sources": [{"url": "rtmp://59.124.75.138:1935/sat/tv111", "quality": "1080p", "title": "CTS (HUA-CHI CTS)", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

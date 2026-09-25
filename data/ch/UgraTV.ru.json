@@ -1,0 +1,1 @@
+{"id": "UgraTV.ru", "name": "Ugra-TV", "alt_names": ["Югра-ТВ"], "country": "RU", "categories": [], "website": "https://ugra-tv.ru/", "network": null, "logo": "https://i.imgur.com/561FRwI.png", "sources": [{"url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8", "quality": "1080p", "title": "Югра", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

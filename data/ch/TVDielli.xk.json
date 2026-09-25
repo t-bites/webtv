@@ -1,0 +1,1 @@
+{"id": "TVDielli.xk", "name": "TV Dielli", "alt_names": [], "country": "XK", "categories": [], "website": "http://stream.tvdielli.com/", "network": null, "logo": "https://i.imgur.com/kLl3ar5.png", "sources": [{"url": "http://stream.tvdielli.com:8081/dielli/index.m3u8", "quality": "720p", "title": "TV Dielli", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

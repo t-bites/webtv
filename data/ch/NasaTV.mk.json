@@ -1,0 +1,1 @@
+{"id": "NasaTV.mk", "name": "Nasa TV", "alt_names": ["Наша ТВ"], "country": "MK", "categories": ["general"], "website": "https://nasatv.com.mk/", "network": null, "logo": "https://i.imgur.com/9rB4VZy.png", "sources": [{"url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8", "quality": "1080p", "title": "Naša TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "TVNova.hr", "name": "TV Nova", "alt_names": [], "country": "HR", "categories": ["entertainment"], "website": "https://tvnova.hr/", "network": null, "logo": "https://i.imgur.com/gFjJ7YB.png", "sources": [{"url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8", "quality": "720p", "title": "TV Nova", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

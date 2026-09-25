@@ -1,0 +1,1 @@
+{"id": "CMCTV.hr", "name": "CMC TV", "alt_names": [], "country": "HR", "categories": ["music"], "website": "https://cmc.com.hr/", "network": null, "logo": "https://i.imgur.com/FCb7Ag2.png", "sources": [{"url": "https://stream.cmctv.hr:49998/cmc/live.m3u8", "quality": "1080p", "title": "CMC TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
