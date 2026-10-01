@@ -1,0 +1,1 @@
+{"id": "PTVNews.pk", "name": "PTV News", "alt_names": [], "country": "PK", "categories": ["news"], "website": null, "network": null, "logo": "https://i.imgur.com/Fpn8VU7.png", "sources": [{"url": "http://103.250.28.74:8000/play/a017/index.m3u8", "quality": "1080p", "title": "PTV News", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "PlayTV.gr", "name": "Play TV", "alt_names": [], "country": "GR", "categories": ["music"], "website": null, "network": null, "logo": "https://i.imgur.com/JWFOYuD.png", "sources": [{"url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8", "quality": "480p", "title": "Play TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

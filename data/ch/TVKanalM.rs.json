@@ -1,0 +1,1 @@
+{"id": "TVKanalM.rs", "name": "TV Kanal M", "alt_names": ["ТВ Kанал М"], "country": "RS", "categories": [], "website": "http://www.rtvparacin.rs/", "network": null, "logo": "https://i.imgur.com/hqNVRUU.png", "sources": [{"url": "http://176.67.210.1/hls/kanalm.m3u8", "quality": "576p", "title": "TV Kanal M", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

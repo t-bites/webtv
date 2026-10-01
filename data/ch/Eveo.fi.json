@@ -1,0 +1,1 @@
+{"id": "Eveo.fi", "name": "Eveo", "alt_names": ["TapahtumaTV Eveo"], "country": "FI", "categories": ["general"], "website": "https://www.eveo.fi/", "network": null, "logo": "https://i.imgur.com/fFIq7tY.png", "sources": [{"url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true", "quality": "720p", "title": "Eveo", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

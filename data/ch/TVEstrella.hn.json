@@ -1,0 +1,1 @@
+{"id": "TVEstrella.hn", "name": "TV Estrella", "alt_names": [], "country": "HN", "categories": ["religious"], "website": "https://www.tvestrella.com/", "network": null, "logo": "https://i.imgur.com/QqSR7l7.png", "sources": [{"url": "https://s.emisoras.tv:8081/tve/index.m3u8", "quality": "720p", "title": "TV Estrella", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

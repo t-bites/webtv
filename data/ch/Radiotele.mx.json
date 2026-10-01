@@ -1,0 +1,1 @@
+{"id": "Radiotele.mx", "name": "Radiotele", "alt_names": [], "country": "MX", "categories": ["general"], "website": "https://radiotele.tv/", "network": null, "logo": "https://i.imgur.com/XpcCZvu.png", "sources": [{"url": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8", "quality": "352p", "title": "Radiotele Morelia", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

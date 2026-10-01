@@ -1,0 +1,1 @@
+{"id": "NewsOnly.in", "name": "News Only", "alt_names": [], "country": "IN", "categories": ["news"], "website": null, "network": null, "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png", "sources": [{"url": "http://51.75.127.199:3141/newsonly/index.m3u8", "quality": "576p", "title": "News Only", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

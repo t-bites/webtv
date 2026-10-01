@@ -1,0 +1,1 @@
+{"id": "KCTV.kr", "name": "KCTV", "alt_names": ["한국케이블TV광주방송"], "country": "KR", "categories": ["general"], "website": "https://www.kctv.co.kr/", "network": null, "logo": "https://i.imgur.com/IHkZpaI.png", "sources": [{"url": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8", "quality": "720p", "title": "KCTV 광주 CH05", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

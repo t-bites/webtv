@@ -1,0 +1,1 @@
+{"id": "PannonTV.rs", "name": "Pannon TV", "alt_names": [], "country": "RS", "categories": ["general"], "website": "https://pannonrtv.com/", "network": null, "logo": "https://i.imgur.com/xQa2idL.png", "sources": [{"url": "https://stream.nmih.hu:4102/live.m3u8", "quality": "648p", "title": "Pannon RTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
