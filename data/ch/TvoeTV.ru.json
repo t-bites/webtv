@@ -1,0 +1,1 @@
+{"id": "TvoeTV.ru", "name": "Tvoe TV", "alt_names": ["Твое ТВ"], "country": "RU", "categories": ["entertainment"], "website": null, "network": null, "logo": "https://i.imgur.com/kKAM7dP.png", "sources": [{"url": "http://tvoetv.space:8080/tvoetv/index.m3u8", "quality": "1080p", "title": "Твое TV HD", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

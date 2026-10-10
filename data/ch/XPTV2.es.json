@@ -1,0 +1,1 @@
+{"id": "XPTV2.es", "name": "XPTV2", "alt_names": ["X-Pat TV 2"], "country": "ES", "categories": ["entertainment"], "website": "https://xptv.live/", "network": null, "logo": "https://i.imgur.com/74Z8ATB.png", "sources": [{"url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8", "quality": "720p", "title": "XPTV2", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

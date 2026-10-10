@@ -1,0 +1,1 @@
+{"id": "STV.hr", "name": "STV", "alt_names": ["Televizija Slavonije i Baranje"], "country": "HR", "categories": ["general"], "website": "https://stv.hr/", "network": null, "logo": "https://i.imgur.com/Z3yRl17.png", "sources": [{"url": "http://89.201.163.244:8080/hls/hdmi.m3u8", "quality": "720p", "title": "STV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

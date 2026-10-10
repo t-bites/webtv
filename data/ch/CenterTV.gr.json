@@ -1,0 +1,1 @@
+{"id": "CenterTV.gr", "name": "Center TV", "alt_names": [], "country": "GR", "categories": ["general"], "website": "https://centertv.gr/", "network": null, "logo": "https://i.imgur.com/52JW71Q.png", "sources": [{"url": "https://eu1.streams.gr:8081/centertv/index.m3u8", "quality": "1080p", "title": "Center TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

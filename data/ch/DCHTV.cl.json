@@ -1,0 +1,1 @@
+{"id": "DCHTV.cl", "name": "DCH TV", "alt_names": ["Digital Channel.TV"], "country": "CL", "categories": ["general"], "website": "https://www.dch.tv/", "network": null, "logo": "https://i.imgur.com/65Xk6oI.png", "sources": [{"url": "https://v2.tustreaming.cl/dchtv/index.m3u8", "quality": "1080p", "title": "DCH TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

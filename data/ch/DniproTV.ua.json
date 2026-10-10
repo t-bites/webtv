@@ -1,0 +1,1 @@
+{"id": "DniproTV.ua", "name": "Dnipro TV", "alt_names": ["Дніпро TV"], "country": "UA", "categories": ["general"], "website": "https://dnipro.tv/", "network": null, "logo": "https://i.imgur.com/mbPTVh1.png", "sources": [{"url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8", "quality": "1080p", "title": "DniproTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

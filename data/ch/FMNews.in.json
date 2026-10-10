@@ -1,0 +1,1 @@
+{"id": "FMNews.in", "name": "FM News", "alt_names": [], "country": "IN", "categories": ["news"], "website": "https://fmnewsindia.com/", "network": null, "logo": "https://i.imgur.com/4rUsbGZ.png", "sources": [{"url": "http://51.75.127.199:3141/fmnews/index.m3u8", "quality": "576p", "title": "FM News", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

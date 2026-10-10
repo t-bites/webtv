@@ -1,0 +1,1 @@
+{"id": "HealthChannel.il", "name": "Health Channel", "alt_names": [], "country": "IL", "categories": ["lifestyle"], "website": null, "network": null, "logo": "https://cdn.epg.one/img2/2709.png", "sources": [{"url": "http://89.33.29.115:8080/Health/index.m3u8", "quality": "1080p", "title": "Health Channel", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

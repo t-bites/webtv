@@ -1,0 +1,1 @@
+{"id": "FinestTV.de", "name": "Finest TV", "alt_names": [], "country": "DE", "categories": ["music"], "website": "https://www.finest.tv/", "network": null, "logo": "https://i.imgur.com/1uoP10V.png", "sources": [{"url": "https://media.finest.tv/hls/live.m3u8", "quality": "288p", "title": "Finest TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
