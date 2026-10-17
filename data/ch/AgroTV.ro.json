@@ -1,0 +1,1 @@
+{"id": "AgroTV.ro", "name": "Agro TV", "alt_names": [], "country": "RO", "categories": ["outdoor"], "website": "https://agro-tv.ro/", "network": null, "logo": "https://i.imgur.com/S7X1PiC.png", "sources": [{"url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8", "quality": "360p", "title": "Agro TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "CCTV2.cn", "name": "CCTV-2", "alt_names": ["CCTV-2 财经"], "country": "CN", "categories": ["business"], "website": "http://tv.cctv.com/cctv2/", "network": null, "logo": "https://i.imgur.com/ILamhwU.png", "sources": [{"url": "http://74.91.26.218:82/live/cctv2hd.m3u8", "quality": "720p", "title": "CCTV-2", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

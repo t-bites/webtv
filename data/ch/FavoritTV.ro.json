@@ -1,0 +1,1 @@
+{"id": "FavoritTV.ro", "name": "Favorit TV", "alt_names": [], "country": "RO", "categories": ["general"], "website": "http://www.favorittv.ro/", "network": null, "logo": "https://i.imgur.com/sTy4FHs.png", "sources": [{"url": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8", "quality": "576p", "title": "Favorit TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

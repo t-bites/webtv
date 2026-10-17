@@ -1,0 +1,1 @@
+{"id": "DTV.hu", "name": "DTV", "alt_names": [], "country": "HU", "categories": [], "website": "https://dehir.hu/dtv", "network": null, "logo": "https://i.imgur.com/YSpqmSO.png", "sources": [{"url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8", "quality": "720p", "title": "DTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

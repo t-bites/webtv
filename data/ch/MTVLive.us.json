@@ -1,0 +1,1 @@
+{"id": "MTVLive.us", "name": "MTV Live", "alt_names": [], "country": "US", "categories": ["music"], "website": "https://www.mtv.com/live", "network": null, "logo": "https://i.imgur.com/3UByLqb.png", "sources": [{"url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8", "quality": "720p", "title": "MTV Live", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

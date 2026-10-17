@@ -1,0 +1,1 @@
+{"id": "TrendTV.hr", "name": "Trend TV", "alt_names": [], "country": "HR", "categories": ["general"], "website": "https://trend.com.hr/", "network": null, "logo": "https://i.imgur.com/4SmNISY.jpg", "sources": [{"url": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8", "quality": "480p", "title": "Trend TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

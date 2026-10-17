@@ -1,0 +1,1 @@
+{"id": "ABN.kr", "name": "ABN", "alt_names": ["아름방송네트워크"], "country": "KR", "categories": ["general"], "website": "https://www.abn.co.kr/", "network": null, "logo": "https://www.abn.co.kr/resources/images/logo.png", "sources": [{"url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8", "quality": "720p", "title": "ABN TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
