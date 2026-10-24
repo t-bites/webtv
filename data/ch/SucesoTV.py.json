@@ -1,0 +1,1 @@
+{"id": "SucesoTV.py", "name": "Suceso TV", "alt_names": [], "country": "PY", "categories": ["news"], "website": "https://radiosuceso.com/sucesotv/", "network": null, "logo": "https://i.imgur.com/BwRNes1.png", "sources": [{"url": "https://live.enhdtv.com:8081/8060/index.m3u8", "quality": "720p", "title": "Suceso TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

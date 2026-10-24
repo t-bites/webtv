@@ -1,0 +1,1 @@
+{"id": "Bolt.ru", "name": "Bolt", "alt_names": [], "country": "RU", "categories": ["movies", "series"], "website": "http://bolt.starmediatv.ru/", "network": null, "logo": "https://i.imgur.com/YdIHXOR.png", "sources": [{"url": "http://hls127.freeott.top:8080/Bolt/video.m3u8", "quality": "576p", "title": "Bolt", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "DionTV.gr", "name": "Dion TV", "alt_names": ["Pontos TV", "Δίον Τηλεόραση"], "country": "GR", "categories": ["general"], "website": "https://diontv.gr/", "network": null, "logo": "https://i.imgur.com/13MverN.png", "sources": [{"url": "https://rtmp.win:3650/live/diontvlive.m3u8", "quality": "1080p", "title": "Dion TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

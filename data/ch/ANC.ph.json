@@ -1,0 +1,1 @@
+{"id": "ANC.ph", "name": "ANC", "alt_names": ["ABS-CBN News Channel"], "country": "PH", "categories": ["news"], "website": "https://news.abs-cbn.com/anc", "network": null, "logo": "https://i.imgur.com/odwRbRk.png", "sources": [{"url": "https://streams.comclark.com/pknsd/anc/playlist.m3u8", "quality": "480p", "title": "ANC", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

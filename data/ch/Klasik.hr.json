@@ -1,0 +1,1 @@
+{"id": "Klasik.hr", "name": "Klasik", "alt_names": ["Klasik TV"], "country": "HR", "categories": ["movies"], "website": "https://www.klasiktv.com/", "network": null, "logo": "https://i.imgur.com/C90BYlb.png", "sources": [{"url": "https://178.253.194.105/klasiktv/playlist.m3u8", "quality": "576p", "title": "Klasik TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

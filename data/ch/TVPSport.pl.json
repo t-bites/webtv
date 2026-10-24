@@ -1,0 +1,1 @@
+{"id": "TVPSport.pl", "name": "TVP Sport", "alt_names": [], "country": "PL", "categories": ["sports"], "website": "https://sport.tvp.pl/", "network": "TVP", "logo": "https://i.imgur.com/JUZDOCO.png", "sources": [{"url": "http://57.128.210.196:8080/134/index.m3u8", "quality": "1080p", "title": "TVP Sport", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

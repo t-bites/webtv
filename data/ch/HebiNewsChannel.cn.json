@@ -1,0 +1,1 @@
+{"id": "HebiNewsChannel.cn", "name": "Hebi News Channel", "alt_names": [], "country": "CN", "categories": ["news"], "website": null, "network": null, "logo": "https://i.imgur.com/Osw5yRW.png", "sources": [{"url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8", "quality": "480p", "title": "鹤壁新闻综合", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

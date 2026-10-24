@@ -1,0 +1,1 @@
+{"id": "CodigoTV.do", "name": "Codigo TV", "alt_names": [], "country": "DO", "categories": ["general"], "website": "https://codigotv.net/en-vivo/", "network": null, "logo": "https://imgur.com/DbjywI3.png", "sources": [{"url": "https://edge.essastream.com/codigotv/playlist.m3u8", "quality": "1080p", "title": "Codigo TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

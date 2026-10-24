@@ -1,0 +1,1 @@
+{"id": "TVMarineret.dk", "name": "TVMarineret", "alt_names": [], "country": "DK", "categories": ["general"], "website": "http://www.tvmarineret.org/", "network": null, "logo": "https://i.imgur.com/r1Caske.jpg", "sources": [{"url": "http://sdream.info:8080/hls/livestream/index.m3u8", "quality": "1080p", "title": "TVMarineret", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
