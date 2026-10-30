@@ -1,0 +1,1 @@
+{"id": "ACCNetwork.us", "name": "ACC Network", "alt_names": ["ACCN"], "country": "US", "categories": ["sports"], "website": "https://getaccn.com/", "network": null, "logo": "https://i.imgur.com/TpCkbkT.png", "sources": [{"url": "http://23.239.31.26:8989/accnetwork/index.m3u8", "quality": "720p", "title": "ACC Network", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

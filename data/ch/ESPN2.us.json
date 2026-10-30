@@ -1,0 +1,1 @@
+{"id": "ESPN2.us", "name": "ESPN 2", "alt_names": [], "country": "US", "categories": ["sports"], "website": "https://espn.com/", "network": null, "logo": "https://i.imgur.com/00tsvjE.png", "sources": [{"url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8", "quality": "720p", "title": "ESPN 2 HD", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

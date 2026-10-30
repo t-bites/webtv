@@ -1,0 +1,1 @@
+{"id": "HalaTV.il", "name": "Hala TV", "alt_names": ["הלא TV"], "country": "IL", "categories": ["general"], "website": "http://www.hala-tv.com/", "network": null, "logo": "https://i.imgur.com/028M4Ew.png", "sources": [{"url": "https://stream.panet.com/edge/halaTV/playlist.m3u8", "quality": "1080p", "title": "Hala TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
