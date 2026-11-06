@@ -1,0 +1,1 @@
+{"id": "NarTV.fi", "name": "Nar-TV", "alt_names": ["När-TV"], "country": "FI", "categories": ["general"], "website": "https://nartv.fi/", "network": null, "logo": "https://i.imgur.com/Ht5yePq.png", "sources": [{"url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8", "quality": "360p", "title": "NärTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

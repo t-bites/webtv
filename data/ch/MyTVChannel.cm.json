@@ -1,0 +1,1 @@
+{"id": "MyTVChannel.cm", "name": "My TV Channel", "alt_names": [], "country": "CM", "categories": [], "website": null, "network": null, "logo": "https://i.imgur.com/vh2373L.png", "sources": [{"url": "http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8", "quality": "720p", "title": "My TV Channel", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

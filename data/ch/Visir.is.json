@@ -1,0 +1,1 @@
+{"id": "Visir.is", "name": "Visir", "alt_names": ["Vísir"], "country": "IS", "categories": ["news"], "website": "https://www.visir.is/", "network": null, "logo": "https://i.imgur.com/07Vlt6i.jpg", "sources": [{"url": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8", "quality": "1080p", "title": "Vísir", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

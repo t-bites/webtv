@@ -1,0 +1,1 @@
+{"id": "TRT.gr", "name": "TRT", "alt_names": ["Θεσσαλική Ραδιοφωνία Τηλεόραση"], "country": "GR", "categories": ["news"], "website": "https://trttv.gr/", "network": null, "logo": "https://i.imgur.com/g0jPOcC.png", "sources": [{"url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8", "quality": "720p", "title": "TRT", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

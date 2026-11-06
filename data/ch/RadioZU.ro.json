@@ -1,0 +1,1 @@
+{"id": "RadioZU.ro", "name": "Radio ZU", "alt_names": ["ZU Radio"], "country": "RO", "categories": ["music"], "website": "https://radiozu.ro/", "network": null, "logo": "https://radiozu.ro/img/logo-zu.png", "sources": [{"url": "https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8", "quality": "720p", "title": "Radio ZU", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

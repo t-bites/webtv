@@ -1,0 +1,1 @@
+{"id": "PoloTV.pl", "name": "Polo TV", "alt_names": [], "country": "PL", "categories": [], "website": "https://www.polotv.pl/", "network": null, "logo": "https://i.imgur.com/GEJZjRB.png", "sources": [{"url": "http://57.128.210.196:8080/210/index.m3u8", "quality": "1080p", "title": "Polo TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

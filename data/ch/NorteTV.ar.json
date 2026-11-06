@@ -1,0 +1,1 @@
+{"id": "NorteTV.ar", "name": "Norte TV", "alt_names": [], "country": "AR", "categories": ["general"], "website": "https://www.ntvcanal7.com.ar/", "network": null, "logo": "https://i.imgur.com/jTX2vp0.png", "sources": [{"url": "https://ntvcanal7.com.ar:81/dash/stream.mpd", "quality": "720p", "title": "Norte TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
