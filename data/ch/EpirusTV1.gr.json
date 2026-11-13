@@ -1,0 +1,1 @@
+{"id": "EpirusTV1.gr", "name": "Epirus TV1", "alt_names": ["Ήπειρος TV1"], "country": "GR", "categories": ["general"], "website": "https://www.epirustv1.eu/", "network": null, "logo": "https://i.imgur.com/nYVqhu8.png", "sources": [{"url": "https://rtmp.win:3929/live/epiruslive.m3u8", "quality": "720p", "title": "Epirus TV1", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

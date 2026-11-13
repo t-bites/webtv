@@ -1,0 +1,1 @@
+{"id": "LiraTV.es", "name": "LiraTV", "alt_names": [], "country": "ES", "categories": ["music"], "website": "https://liratv.es/", "network": null, "logo": "https://i.imgur.com/hBswXYZ.png", "sources": [{"url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8", "quality": "720p", "title": "LiraTV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

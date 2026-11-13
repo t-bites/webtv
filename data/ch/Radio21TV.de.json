@@ -1,0 +1,1 @@
+{"id": "Radio21TV.de", "name": "Radio 21 TV", "alt_names": [], "country": "DE", "categories": ["music"], "website": null, "network": null, "logo": "https://i.imgur.com/u8OhwI1.png", "sources": [{"url": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8", "quality": "720p", "title": "Radio 21 TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

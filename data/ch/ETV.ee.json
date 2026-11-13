@@ -1,0 +1,1 @@
+{"id": "ETV.ee", "name": "ETV", "alt_names": [], "country": "EE", "categories": ["general"], "website": "http://etv.err.ee/", "network": null, "logo": "https://i.imgur.com/5URjPgG.png", "sources": [{"url": "https://sb.err.ee/live/etv.m3u8", "quality": "720p", "title": "ETV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

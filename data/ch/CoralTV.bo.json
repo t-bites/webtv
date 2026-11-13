@@ -1,0 +1,1 @@
+{"id": "CoralTV.bo", "name": "Coral TV", "alt_names": [], "country": "BO", "categories": ["general"], "website": "https://alfasistemas.com/coraltv/", "network": null, "logo": "https://i.ibb.co/xDrc5MD/CORALTv.png", "sources": [{"url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8", "quality": "720p", "title": "Coral TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

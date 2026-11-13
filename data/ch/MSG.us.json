@@ -1,0 +1,1 @@
+{"id": "MSG.us", "name": "MSG", "alt_names": [], "country": "US", "categories": ["sports"], "website": "https://www.msgnetworks.com/", "network": null, "logo": "https://i.imgur.com/SEQFh0P.png", "sources": [{"url": "http://23.237.104.106:8080/USA_MSG/index.m3u8", "quality": "720p", "title": "MSG", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
