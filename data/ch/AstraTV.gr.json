@@ -1,0 +1,1 @@
+{"id": "AstraTV.gr", "name": "Astra TV", "alt_names": [], "country": "GR", "categories": ["news"], "website": "https://www.astratv.gr/live-streaming/", "network": null, "logo": "https://i.imgur.com/oYRPfZm.png", "sources": [{"url": "https://server.gointernet.gr/live/livestream.m3u8", "quality": "1080p", "title": "Astra TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "iNews.id", "name": "iNews", "alt_names": [], "country": "ID", "categories": ["news"], "website": "https://www.inews.id/", "network": null, "logo": "https://i.imgur.com/M2R3lfg.png", "sources": [{"url": "https://mncmedia.malingtv.workers.dev/inews.m3u8", "quality": "720p", "title": "iNews HD", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

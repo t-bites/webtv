@@ -1,0 +1,1 @@
+{"id": "XPTVUS.es", "name": "XPTV US", "alt_names": ["X-Pat TV US"], "country": "ES", "categories": ["series"], "website": "https://xptv.live/", "network": null, "logo": "https://i.imgur.com/1m7kDmc.png", "sources": [{"url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8", "quality": "720p", "title": "XPTV US", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

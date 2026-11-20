@@ -1,0 +1,1 @@
+{"id": "ARTTV.gr", "name": "ART TV", "alt_names": [], "country": "GR", "categories": ["general"], "website": "https://arttv.gr/", "network": null, "logo": "https://i.imgur.com/8uS0sib.png", "sources": [{"url": "https://rtmp.win:3696/live/arttvgrlive.m3u8", "quality": "", "title": "ART TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

@@ -1,0 +1,1 @@
+{"id": "RTSH2.al", "name": "RTSH 2", "alt_names": [], "country": "AL", "categories": ["general"], "website": "https://tv.rtsh.al/", "network": null, "logo": "https://i.imgur.com/AZ43XZn.png", "sources": [{"url": "http://178.33.11.6:8696/live/rtsh2/playlist.m3u8", "quality": "1080p", "title": "RTSH 2", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

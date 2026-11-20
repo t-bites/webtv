@@ -1,0 +1,1 @@
+{"id": "BugTV.by", "name": "Bug-TV", "alt_names": ["Буг-ТВ"], "country": "BY", "categories": ["general"], "website": "https://bugtv.by/", "network": null, "logo": "https://i.imgur.com/KqB7YdO.png", "sources": [{"url": "http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8", "quality": "1080p", "title": "Bug-TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

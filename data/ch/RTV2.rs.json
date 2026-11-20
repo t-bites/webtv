@@ -1,0 +1,1 @@
+{"id": "RTV2.rs", "name": "RTV 2", "alt_names": ["РТВ 2"], "country": "RS", "categories": ["general"], "website": "https://www.rtv.rs/", "network": null, "logo": "https://i.imgur.com/skpr66t.png", "sources": [{"url": "http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8", "quality": "1080p", "title": "RTV 2", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
