@@ -1,0 +1,1 @@
+{"id": "UnsionTV.ec", "name": "Unsion TV", "alt_names": ["Unsión TV"], "country": "EC", "categories": [], "website": "https://unsion.tv/", "network": null, "logo": "https://i.imgur.com/HQGBqGU.png", "sources": [{"url": "http://provedores.unsion.tv:8081/srt/1/playlist.m3u8", "quality": "1080p", "title": "Unsion TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

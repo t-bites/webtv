@@ -1,0 +1,1 @@
+{"id": "RDN.do", "name": "RDN", "alt_names": ["Red Digital de Noticias"], "country": "DO", "categories": ["news"], "website": "http://www.rdn.com.do/", "network": null, "logo": "https://i.imgur.com/x02CGSW.png", "sources": [{"url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8", "quality": "1080p", "title": "RDN", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

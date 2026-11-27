@@ -1,0 +1,1 @@
+{"id": "TVPABC.pl", "name": "TVP ABC", "alt_names": [], "country": "PL", "categories": ["kids"], "website": "https://abc.tvp.pl/", "network": "TVP", "logo": "https://i.imgur.com/wP2mpfM.png", "sources": [{"url": "http://92.114.85.87:8002/play/a00b/index.m3u8", "quality": "576i", "title": "TVP ABC", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

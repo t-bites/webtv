@@ -1,0 +1,1 @@
+{"id": "mditv.ro", "name": "mditv", "alt_names": [], "country": "RO", "categories": ["general"], "website": "https://mditv.ro/", "network": null, "logo": "https://mditv.ro/wp-content/uploads/2025/02/LOGO_MDITV-3.png", "sources": [{"url": "http://91.235.165.117:8001/play/a01p/index.m3u8", "quality": "576i", "title": "mditv", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

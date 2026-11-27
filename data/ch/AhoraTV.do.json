@@ -1,0 +1,1 @@
+{"id": "AhoraTV.do", "name": "Ahora TV", "alt_names": ["ATV Canal 35"], "country": "DO", "categories": ["general"], "website": "https://www.ahoratv.com/", "network": null, "logo": "https://i.imgur.com/dyJyuXc.png", "sources": [{"url": "https://stream.haislin.com/ahoratv/index.m3u8", "quality": "1080p", "title": "Ahora TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

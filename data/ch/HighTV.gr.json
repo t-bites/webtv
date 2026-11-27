@@ -1,0 +1,1 @@
+{"id": "HighTV.gr", "name": "High TV", "alt_names": [], "country": "GR", "categories": ["shop"], "website": "https://www.hightv.gr/", "network": null, "logo": "https://i.imgur.com/8gHuwt7.png", "sources": [{"url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8", "quality": "720p", "title": "High TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

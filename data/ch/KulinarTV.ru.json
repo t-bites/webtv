@@ -1,0 +1,1 @@
+{"id": "KulinarTV.ru", "name": "Kulinar TV", "alt_names": ["Кулинар HD"], "country": "RU", "categories": ["cooking"], "website": null, "network": "Taurer", "logo": "https://smotret.tv/images/kulinar-tv.webp", "sources": [{"url": "https://api.alpaca.t62a.com/hls/9110/stream0.m3u8", "quality": "576p", "title": "Kulinar TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

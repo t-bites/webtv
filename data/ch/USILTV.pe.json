@@ -1,0 +1,1 @@
+{"id": "USILTV.pe", "name": "USIL TV", "alt_names": [], "country": "PE", "categories": ["general"], "website": "https://usil.tv/", "network": null, "logo": "https://i.imgur.com/9OXF9EK.png", "sources": [{"url": "https://eu1.servers10.com:8081/8162/index.m3u8", "quality": "1080p", "title": "USIL TV", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

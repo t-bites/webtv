@@ -1,0 +1,1 @@
+{"id": "BoomTV.ro", "name": "Boom TV", "alt_names": [], "country": "RO", "categories": ["music"], "website": "https://radioboom.ro", "network": null, "logo": "https://live.radioboom.ro/live-tv/poster.jpg", "sources": [{"url": "https://tvboom.ro/live-tv/live.m3u8", "quality": "1080p", "title": "Boom TV", "ua": "", "referrer": "https://tvboom.ro/", "origin": "iptv-org/iptv"}]}

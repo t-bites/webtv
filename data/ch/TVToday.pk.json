@@ -1,0 +1,1 @@
+{"id": "TVToday.pk", "name": "TV Today", "alt_names": [], "country": "PK", "categories": [], "website": "https://tvtodaynews.tv/", "network": null, "logo": "https://i.imgur.com/MYoosNo.png", "sources": [{"url": "http://103.250.28.74:8000/play/a06e/index.m3u8", "quality": "576p", "title": "TV Today", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

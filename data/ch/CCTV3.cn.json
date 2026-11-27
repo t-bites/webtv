@@ -1,0 +1,1 @@
+{"id": "CCTV3.cn", "name": "CCTV-3", "alt_names": ["CCTV-3 综艺"], "country": "CN", "categories": ["entertainment"], "website": "http://tv.cctv.com/cctv3/", "network": null, "logo": "https://i.imgur.com/iFlkIuw.png", "sources": [{"url": "http://74.91.26.218:82/live/cctv3hd.m3u8", "quality": "720p", "title": "CCTV-3", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

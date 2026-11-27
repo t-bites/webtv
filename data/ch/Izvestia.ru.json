@@ -1,0 +1,1 @@
+{"id": "Izvestia.ru", "name": "Izvestia", "alt_names": ["Известия"], "country": "RU", "categories": ["news"], "website": "https://iz.ru/", "network": null, "logo": "https://i.imgur.com/r5HzA6J.png", "sources": [{"url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8", "quality": "1080p", "title": "Известия", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}

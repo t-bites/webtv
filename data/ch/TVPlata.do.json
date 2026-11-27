@@ -1,0 +1,1 @@
+{"id": "TVPlata.do", "name": "TV Plata", "alt_names": [], "country": "DO", "categories": ["general"], "website": "http://www.tvplata.net/", "network": null, "logo": "https://i.imgur.com/r3urUnn.png", "sources": [{"url": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8", "quality": "720p", "title": "TV Plata", "ua": "", "referrer": "", "origin": "iptv-org/iptv"}]}
